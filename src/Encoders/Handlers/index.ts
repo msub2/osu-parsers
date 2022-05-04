@@ -5,7 +5,7 @@ export * from './Beatmaps/GeneralEncoder';
 export * from './Beatmaps/HitObjectEncoder';
 export * from './Beatmaps/MetadataEncoder';
 export * from './Beatmaps/TimingPointEncoder';
-export * from './Replays/ReplayEncoder';
+// export * from './Replays/ReplayEncoder';
 export * from './Replays/SerializationWriter';
 export * from './Storyboards/EventsEncoder';
 export * from './Storyboards/VariablesEncoder';

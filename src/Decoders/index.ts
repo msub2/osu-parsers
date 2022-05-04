@@ -1,3 +1,3 @@
-export { BeatmapDecoder } from './BeatmapDecoder';
-export { StoryboardDecoder } from './StoryboardDecoder';
-export { ScoreDecoder } from './ScoreDecoder';
+export { BeatmapDecoder } from './BrowserBeatmapDecoder';
+export { StoryboardDecoder } from './BrowserStoryboardDecoder';
+export { ScoreDecoder } from './BrowserScoreDecoder';
